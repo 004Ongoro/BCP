@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/best-color-picker.git
+git clone https://github.com/Joojmusic/Best-Color-Picker.git
 cd best-color-picker
 Open the solution:
 
@@ -50,4 +50,4 @@ Acknowledgments
 Special thanks to the open-source community for their invaluable contributions.
 Inspired by various color picker tools available online.
 Contact
-For any inquiries or feedback, feel free to reach out to us at your-email@example.com.
+For any inquiries or feedback, feel free to reach out to us at (gtechong72)[gtechong72@gmail.com] | (georgeongoro9)[georgeongoro9@gmail.com]
